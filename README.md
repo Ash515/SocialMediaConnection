@@ -1,2 +1,2 @@
-# My media launcher
-All connections with comfortable
+#Social Media Connection
+All Medias at One Place

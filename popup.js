@@ -10,12 +10,7 @@ var facebook_link = document.getElementById('facebook_link');
 // github_link.href='javascript:void(0);';
 
 let array = ["name","website","linkedin","twitter","github","facebook"];
-// let array2 = {
-//     "name":"Rajiv",
-//     "website":"https://www.google.com",
-//     "wordpress":"https://www.wordpress.com"
-// };
-// chrome.storage.sync.set(array2);
+
 function void_click(){
     void(0);
 }

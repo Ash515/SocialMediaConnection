@@ -1,6 +1,21 @@
-# Social Media Connection
+# Social Media Connection 👨‍💻
 
 A chrome extension which useful to access our social media profiles easily.🤟📱
+
+# Features ✨
+- Website
+- Facebook
+- Linkedin
+- Github
+- Quora, Stack overflow
+- Instagram
+- Twitter
+- Gitlal, Bitbuck.
+
+# Image Output 🤩
+
+<img src="SocialMediaLauncher.png" width=500px>
+
 
 # 🚀&nbsp;Installation 
 1. Clone the repository 
@@ -31,5 +46,4 @@ $git push origin master
 Thats all about installation and version control with **Git**
 
 
-<img src="SocialMediaLauncher.png" width=900px>
 

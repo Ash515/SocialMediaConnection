@@ -20,7 +20,7 @@ A chrome extension which useful to access our social media profiles easily.🤟�
 # 🚀&nbsp;Installation 
 1. Clone the repository 
 ```
-https://github.com/Ash515/Social_Media_Connection.git
+https://github.com/Ash515/SocialMediaConnection.git
 ```
 2. Check the status of your file 
 ```

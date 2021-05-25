@@ -2,7 +2,7 @@
 
 A chrome extension which useful to access our social media profiles easily.🤟📱
 
-# Features ✨
+## Features 
 - Website
 - Facebook
 - Linkedin
@@ -12,12 +12,12 @@ A chrome extension which useful to access our social media profiles easily.🤟�
 - Twitter
 - Gitlal, Bitbuck.
 
-# Image Output 🤩
+## Image Output
 
 <img src="SocialMediaLauncher.png" width=500px>
 
 
-# 🚀&nbsp;Installation 
+## Installation 
 1. Clone the repository 
 ```
 https://github.com/Ash515/SocialMediaConnection.git
@@ -45,7 +45,7 @@ $git push origin master
 ```
 Thats all about installation and version control with **Git**
 
-# Licence 📝
+## Licence
 MIT
 
 # Developer ❤

@@ -26,8 +26,7 @@ https://github.com/Ash515/SocialMediaConnection.git
 ```
 $git status
 ```
-
-3.For using VScode for editing your files 
+3. For using VScode for editing your files 
 ```
 $git code .
 ```

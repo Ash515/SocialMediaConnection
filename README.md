@@ -12,6 +12,9 @@ A chrome extension which useful to access our social media profiles easily.ðŸ¤Ÿð
 - Twitter
 - Gitlal, Bitbuck.
 
+## Video Demo
+[Social Media Connection](https://www.youtube.com/watch?v=_kaKUzQTMuY&t=54s)
+
 ## Image Output
 
 <img src="SocialMediaLauncher.png" width=500px>

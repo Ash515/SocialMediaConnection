@@ -17,7 +17,7 @@ A chrome extension which useful to access our social media profiles easily.ðŸ¤Ÿð
 
 ## Image Output
 
-<img src="SocialMediaLauncher.png" width=400px> <img src="Output.png" width=400px>
+<img src="SocialMediaLauncher.png" width=400px>      <img src="Output.png" width=400px>
 
 
 ## Installation 

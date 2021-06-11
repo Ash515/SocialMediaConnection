@@ -3,14 +3,14 @@
 A chrome extension which useful to access our social media profiles easily.🤟📱
 
 ## Features 
-- Website
+- Personal Website
 - Facebook
 - Linkedin
 - Github
 - Quora, Stack overflow
 - Instagram
 - Twitter
-- Gitlal, Bitbuck.
+- Gitlab, Bitbuck.
 
 ## Video Demo
 [Social Media Connection](https://www.youtube.com/watch?v=_kaKUzQTMuY&t=54s)
